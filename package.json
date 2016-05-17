@@ -1,0 +1,28 @@
+{
+  "name": "example-local-authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhl1337/example-local-authentication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhl1337/example-local-authentication/issues"
+  },
+  "homepage": "https://github.com/dhl1337/example-local-authentication#readme",
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mongoose": "^4.4.17",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
