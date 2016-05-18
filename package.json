@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/dhl1337/example-local-authentication#readme",
   "dependencies": {
-    "bcryptjs": "^2.3.0",
+    "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.15.1",
     "express": "^4.13.4",
     "express-session": "^1.13.0",
